@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art SpaceApp</string>
+
+    <string name="workTitle1">Fresh glass of summer lemonade</string>
+    <string name="workTitle2">Still life of a lemon tree in season</string>
+    <string name="workTitle3">Freshly sliced lemon from Sicily</string>
+    <string name="workTitle4">Homemade studio vase from England</string>
+
+    <string name="artistName1">David Brown </string>
+    <string name="artistName2">Angus Corell </string>
+    <string name="artistName3">Mark Parell </string>
+    <string name="artistName4">Simone Scott </string>
+
+    <string name="releaseYear1">2020 </string>
+    <string name="releaseYear2">2010 </string>
+    <string name="releaseYear3">2013 </string>
+    <string name="releaseYear4">2009 </string>
+</resources>
